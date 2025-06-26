@@ -1,0 +1,3 @@
+git+https://github.com/antmicro/renode-run.git
+git+https://github.com/antmicro/pyrenode3.git
+asciinema
